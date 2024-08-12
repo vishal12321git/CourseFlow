@@ -57,12 +57,12 @@ const CodeBlocks = ({
             repeat={Infinity}
             cursor={true}
            
-            style = {
-                {
-                    whiteSpace: "pre-line",
-                    display:"block",
-                }
-            }
+            // style = {
+            //     {
+            //         whiteSpace: "pre-line",
+            //         display:"block",
+            //     }
+            // }
             omitDeletionAnimation={true}
            />
         </div>
